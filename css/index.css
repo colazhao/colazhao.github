@@ -3,6 +3,8 @@
 	height: 300px;
 	overflow: hidden;
 	position: relative;
+	background: url(../img/banner.jpg) no-repeat center center;
+	background-size: 100%;
 }
 .bannertu{
 	width: 1370px;
